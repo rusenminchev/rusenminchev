@@ -2,7 +2,7 @@
 Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world of C# and .NET.
   <img width="460" height="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"><br />
   Learning to code with SoftUni C# Development Courses.<br />
-  	seedling :seedling: Programming Basics with C#<br />
+  :seedling: Programming Basics with C#<br />
   :herb: C# Fundamentals<br />
  :four_leaf_clover: C# Advanced<br />
 </p>
