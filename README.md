@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world of C Sharp and .NET
 
 <!--
 **rusenminchev/rusenminchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
