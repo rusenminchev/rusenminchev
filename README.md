@@ -1,5 +1,7 @@
-<center>Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world of C# and .NET</center>
-<center>![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)</center>
+<div align="center">
+Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world of C# and .NET</c
+![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+</div>
 <!--
 **rusenminchev/rusenminchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
