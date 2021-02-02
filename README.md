@@ -1,10 +1,12 @@
 <p align="center">
 Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world of C# and .NET.
+  <br />
   <img width="460" height="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"><br />
+  <br />
   Learning to code with SoftUni C# Development Courses.<br />
-:dart: Programming Basics with C#<br />
-:dart: C# Fundamentals<br />
-:dart: C# Advanced<br />
+:heavy_check_mark:  Programming Basics with C#<br />
+:heavy_check_mark:  C# Fundamentals<br />
+:heavy_check_mark:  C# Advanced<br />
 </p>
 
 <!--
