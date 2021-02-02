@@ -1,5 +1,5 @@
 Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world of C Sharp and .NET
-https://giphy.com/gifs/ZVik7pBtu9dNS/html5
+![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 <!--
 **rusenminchev/rusenminchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
