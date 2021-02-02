@@ -1,6 +1,10 @@
 <p align="center">
-Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world of C# and .NET
+Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world of C# and .NET.
   <img width="460" height="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+  Learning to code with SoftUni C# Development Courses.
+  	seedling :seedling: Programming Basics with C#
+  :herb: C# Fundamentals
+ :four_leaf_clover: C# Advanced
 </p>
 
 <!--
