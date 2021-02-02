@@ -1,5 +1,5 @@
 <p align="center">
-Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world of C# and .NET.
+Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world of C# and .NET.  <br />
   <br />
   <img width="460" height="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"><br />
   <br />
