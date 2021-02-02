@@ -1,5 +1,5 @@
 <div align=”center”>
-Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world of C# and .NET</c
+Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world of C# and .NET
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 </div>
 <!--
