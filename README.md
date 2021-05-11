@@ -8,7 +8,8 @@ Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world
 :heavy_check_mark:  C# Fundamentals<br />
 :heavy_check_mark:  C# Advanced<br />
 :heavy_check_mark:  C# OOP<br />
-:heavy_check_mark:  MS SQL<br />
+:heavy_check_mark:  MS SQL <br />
+:heavy_check_mark:  Microsoft Entity Framework Core <br />
 </p>
 
 <!--
