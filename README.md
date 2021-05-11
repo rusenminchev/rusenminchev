@@ -10,7 +10,6 @@ Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world
 :heavy_check_mark:  C# OOP<br />
 :heavy_check_mark:  MS SQL <br />
 :heavy_check_mark:  Entity Framework Core <br />
-  Fun fact:Fun fact:Fun fact:
 </p>
 
 <!--
