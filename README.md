@@ -1,7 +1,7 @@
 <p align="center">
 Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world of C# and .NET <br />
   <br />
-  <img width="100%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"><br />
+  <img width="70%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"><br />
 
   ## :rocket: &nbsp;Technology Stack
   <p align='center'>
@@ -9,7 +9,6 @@ Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -29,15 +28,8 @@ Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world
   </p>
 
   <br />
-  Learning to code with SoftUni C# Development Courses.<br />
-:heavy_check_mark:  Programming Basics with C#<br />
-:heavy_check_mark:  C# Fundamentals<br />
-:heavy_check_mark:  C# Advanced<br />
-:heavy_check_mark:  C# OOP<br />
-:heavy_check_mark:  MS SQL <br />
-:heavy_check_mark:  Entity Framework Core <br />
-:heavy_check_mark:  ASP.NET Core <br />
-</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rusenminchev&theme=default)
 
 <!--
 **rusenminchev/rusenminchev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
