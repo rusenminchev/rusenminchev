@@ -1,5 +1,13 @@
+Hi! It`s Rusen here! I am a 31 years young cinematographer who is currently exploring the amazing world of C# and .NET. After almost 10 years in video production and more than 100 successfully executed projects in different production roles such as director, cinematographer, and video editor I decided to try programming and fell in love with it.
+<br>
+<br>
+I completed most of the C# related courses at Software University and gained the knowledge and the experience to build a web application from start to finish using .NET Framework, Entity Framework Core, Razor View Engine, HTML, CSS, JavaScript, and other tools.
+<br>
+<br>
+My first ASP.NET Core Web Application is called Spotopedia. The main idea of Spotopedia is to allow the users to discover good places to skate everywhere around the world and get in touch with other individuals with the same interests. You can easily meet your global and local skate community so you can go skating and have fun together. Go check Spotopedia in my repos section! :)
+
 <p align="center">
-Hi! It`s Rusen here! I am a cinematographer who is currently exploring the world of C# and .NET <br />
+ <br />
   <br />
   <img width="70%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"><br />
 
