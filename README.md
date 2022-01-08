@@ -7,7 +7,9 @@ I completed most of the C# related courses at Software University and gained the
 I recently launched my first ASP.NET Core web application called Spotopedia (https://spotopedia.azurewebsites.net). The main idea of Spotopedia is to allow the users to discover good places to skate everywhere around the world and get in touch with other individuals with the same interests. You can easily meet your global and local skate community so you can go skating and have fun together. Go inside of Spotopedia in my repos section! :)
 
 If you got tired of coding just go watch me and my friends skating: 
+<br>
 https://www.youtube.com/watch?v=L9NeFWo7L3M
+<br>
 🔥🔥🔥
 
 <p align="center">
